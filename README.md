@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/manavi-24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manavi-24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/manavi-24/Leetcode/tree/master/0078-subsets) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/manavi-24/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Backtracking
 |  |
