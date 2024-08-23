@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/manavi-24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manavi-24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manavi-24/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manavi-24/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manavi-24/Leetcode/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/manavi-24/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/manavi-24/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/manavi-24/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manavi-24/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manavi-24/Leetcode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
