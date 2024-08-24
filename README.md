@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/manavi-24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manavi-24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manavi-24/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manavi-24/Leetcode/tree/master/0090-subsets-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/manavi-24/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manavi-24/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
