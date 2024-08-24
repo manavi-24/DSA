@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/manavi-24/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manavi-24/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manavi-24/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/manavi-24/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manavi-24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manavi-24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manavi-24/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/manavi-24/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
