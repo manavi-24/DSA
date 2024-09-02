@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/manavi-24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manavi-24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/manavi-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manavi-24/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manavi-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/manavi-24/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/manavi-24/Leetcode/tree/master/0283-move-zeroes) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manavi-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manavi-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/manavi-24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/manavi-24/Leetcode/tree/master/1013-fibonacci-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manavi-24/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manavi-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/manavi-24/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manavi-24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manavi-24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manavi-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavi-24/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
