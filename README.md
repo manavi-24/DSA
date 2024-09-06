@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manavi-24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavi-24/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/manavi-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/manavi-24/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manavi-24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/manavi-24/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/manavi-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manavi-24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/manavi-24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavi-24/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/manavi-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/manavi-24/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/manavi-24/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
