@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/manavi-24/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/manavi-24/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/manavi-24/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/manavi-24/Leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manavi-24/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/manavi-24/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/manavi-24/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/manavi-24/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/manavi-24/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manavi-24/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manavi-24/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manavi-24/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manavi-24/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
