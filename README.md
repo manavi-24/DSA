@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/manavi-24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manavi-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/manavi-24/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manavi-24/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manavi-24/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manavi-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/manavi-24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/manavi-24/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/manavi-24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/manavi-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manavi-24/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
