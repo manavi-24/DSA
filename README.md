@@ -226,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/manavi-24/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manavi-24/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/manavi-24/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/manavi-24/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
