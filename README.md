@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manavi-24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/manavi-24/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manavi-24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manavi-24/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/manavi-24/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manavi-24/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manavi-24/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manavi-24/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/manavi-24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/manavi-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manavi-24/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manavi-24/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -234,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/manavi-24/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manavi-24/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
