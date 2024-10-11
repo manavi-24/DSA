@@ -6,6 +6,8 @@ public:
         int left = 0;
         int right = 0;
         int maxi = 0;
+        //maxi=max frequency
+        //ans=maxlen
 
         for (right = 0; right < s.size(); right++) {
             mpp[s[right]]++;
