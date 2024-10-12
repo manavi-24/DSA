@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/manavi-24/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/manavi-24/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/manavi-24/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/manavi-24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manavi-24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavi-24/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/manavi-24/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/manavi-24/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/manavi-24/Leetcode/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manavi-24/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/manavi-24/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manavi-24/Leetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/manavi-24/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manavi-24/Leetcode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/manavi-24/Leetcode/tree/master/0455-assign-cookies) |
 ## Data Stream
 |  |
 | ------- |
