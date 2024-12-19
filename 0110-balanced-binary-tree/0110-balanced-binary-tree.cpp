@@ -12,19 +12,15 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        if(root==NULL)return true;
-        int lh=getheight(root->left);
-        int rh=getheight(root->right);
-        if(abs(lh-rh)<=1 && isBalanced(root->left) && isBalanced(root->right)){
-            return true;
-        }
-        return false;
-        
+        return dfsheight(root)!=-1;
     }
-    int getheight(TreeNode*root){
-        if(root==NULL)return true;
-        int lh=getheight(root->left);
-        int rh=getheight(root->right);
+    int dfsheight(TreeNode*root){
+        if(root==NULL)return 0;
+        int lh=dfsheight(root->left);
+        if(lh==-1)return -1;
+        int rh=dfsheight(root->right);
+        if(rh==-1)return -1;
+        if(abs(lh-rh)>1)return -1;
         return 1+max(lh,rh);
     }
 };
